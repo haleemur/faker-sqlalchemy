@@ -45,7 +45,7 @@ RNvnAvOpyEVAoNGnVZQU
 Supported Versions
 ------------------
 
-Currently SQLAlchemy versions 1.3 and 1.4 are supported. Support for SQLAlchemy 2.0 will be added when it is released.
+SQLAlchemy versions 1.3, 1.4 & 2.0 are supported.
 
 Faker versions ``>=8`` are currently supported, though it should be noted that the testing matrix isn't exhaustive. If
 bugs come up with a particular version of faker beyond version 8.0, submit a ticket to add support.

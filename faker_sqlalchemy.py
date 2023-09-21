@@ -88,7 +88,7 @@ from sqlalchemy import (
     UnicodeText,
 )
 
-__version__ = "0.10.2208140"
+__version__ = "0.10.2309200"
 __all__ = (
     "SqlAlchemyProvider",
 )
